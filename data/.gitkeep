@@ -1,0 +1,20 @@
+# Shoes Sales Analysis
+
+## Objective
+Analyze sales data to identify patterns and business insights.
+
+## Status
+🚧 In progress
+
+## Dataset
+Sales dataset containing brand, product type, country, sales channel, price and revenue.
+
+## Initial Analysis
+- Sales by brand
+- Sales by product type
+- Sales by country
+- Sales by sales_channel
+
+## Next Steps
+- Build dashboard in Power BI
+- Refine insights
